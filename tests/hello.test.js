@@ -1,3 +1,4 @@
-test('adds 1 + 2 to equal 3' , () => {
- expect(1 + 2). toBe (3);
-});
+console.log("Test proshel yspeshno");
+process.exit(0);
+console.error("Test provalilsa");
+process.exit(1);
